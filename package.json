@@ -4,7 +4,7 @@
   "description": "csv uploader ",
   "main": "index.js",
   "test": "mocha tests/unit/",
-  "dev": "nodemon server.js"
+  "dev": "nodemon server.js",
   "start": "node server.js"
   },
   "author": "Abhishek singh",
