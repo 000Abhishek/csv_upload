@@ -6,8 +6,8 @@
   "test": "mocha tests/unit/",
   "dev": "nodemon server.js",
   "start": "node server.js"
-  }
-  "author": "Abhishek singh",
+  },
+  "author": "abhishek singh",
   "license": "ISC",
   "dependencies": {
     "csv-parser": "^3.0.0",
