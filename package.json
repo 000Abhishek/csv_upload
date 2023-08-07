@@ -6,7 +6,7 @@
   "test": "mocha tests/unit/",
   "dev": "nodemon server.js",
   "start": "node server.js"
-  },
+  }
   "author": "Abhishek singh",
   "license": "ISC",
   "dependencies": {
